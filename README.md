@@ -39,7 +39,6 @@ Last Update: 2019.08.15
 |[dopamine](https://github.com/google/dopamine)|8.2k|Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.|
 |[dlib](https://github.com/davisking/dlib)|7.8k|A toolkit for making real world machine learning and data analysis applications in C++|
 |[sonnet](https://github.com/deepmind/sonnet)|7.8k|TensorFlow-based neural network library|
-
 |[DeOldify](https://github.com/jantic/DeOldify)|7.6k|A Deep Learning based project for colorizing and restoring old images (and video!)|
 |[stylegan](https://github.com/NVlabs/stylegan)|7.5k|StyleGAN - Official TensorFlow Implementation|
 |[kubeflow](https://github.com/kubeflow/kubeflow)|7.3k|Machine Learning Toolkit for Kubernetes|
